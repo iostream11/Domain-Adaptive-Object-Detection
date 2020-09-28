@@ -1,6 +1,18 @@
 # Domain-Adaptive-Object-Detection
 A paper list for domain adaptive object detection.
-### DA Object Detection
+## Old School
+- Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
+- Unsupervised Domain Adaptation of Virtual and Real Worlds for Pedestrian Detection [[ICPR2012]](https://ieeexplore.ieee.org/document/6460917)
+- Adapting Classification Cascades to New Domains [[ICCV2013]](https://ieeexplore.ieee.org/document/6751122)
+- Domain Adaptive Object Detection [[WACV2013]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0E94F54E632644698E05DC9BEB223885?doi=10.1.1.295.6188&rep=rep1&type=pdf)
+- Weakly Supervised Object Localization with Progressive Domain Adaptation [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf)
+- Learning Scene-Speciﬁc Pedestrian Detectors without Real Data [[CVPR2015]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hattori_Learning_Scene-Specific_Pedestrian_2015_CVPR_paper.pdf)
+- Subspace Alignment Based Domain Adaptation for RCNN Detector [[arxiv2015]](https://arxiv.org/pdf/1507.05578.pdf)
+- LSDA: Large Scale Detection through Adaptation [[NIPS2014]](https://arxiv.org/abs/1407.5035)
+- Domain Adaptation of Deformable Part-based Models [[TPAMI2014]](https://ddd.uab.cat/pub/tesis/2015/hdl_10803_290266/jx1de1.pdf)
+
+
+## Old School
 - DEEP DOMAIN ADAPTIVE OBJECT DETECTION: A SURVEY [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
 - iFAN: Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://arxiv.org/pdf/2003.04132.pdf)
 - Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation [[arxiv2020]](https://arxiv.org/pdf/2003.10275.pdf)
@@ -28,10 +40,4 @@ A paper list for domain adaptive object detection.
 - Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[arxiv2019]](https://arxiv.org/abs/1911.07158v1)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
-- Weakly Supervised Object Localization with Progressive Domain Adaptation [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf)
-- Learning Scene-Speciﬁc Pedestrian Detectors without Real Data [[CVPR2015]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hattori_Learning_Scene-Specific_Pedestrian_2015_CVPR_paper.pdf)
-- Subspace Alignment Based Domain Adaptation for RCNN Detector [[arxiv2015]](https://arxiv.org/pdf/1507.05578.pdf)
-- LSDA: Large Scale Detection through Adaptation [[NIPS2014]](https://arxiv.org/abs/1407.5035)
-- Domain Adaptation of Deformable Part-based Models [[TPAMI2014]](https://ddd.uab.cat/pub/tesis/2015/hdl_10803_290266/jx1de1.pdf)
-- Adapting Classiﬁcation Cascades to New Domains [[ICCV2013]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Jain_Adapting_Classification_Cascades_2013_ICCV_paper.pdf)
-- Domain Adaptive Object Detection [[WACV2013]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0E94F54E632644698E05DC9BEB223885?doi=10.1.1.295.6188&rep=rep1&type=pdf)
+
