@@ -40,3 +40,5 @@ A paper list for domain adaptive object detection.
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
 - Subspace Alignment Based Domain Adaptation for RCNN Detector [[arxiv2015]](https://arxiv.org/pdf/1507.05578.pdf)
+## Universal Object Detection
+- Towards Universal Object Detection by Domain Attention [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)
