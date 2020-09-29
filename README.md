@@ -9,6 +9,8 @@ A paper list for domain adaptive object detection.
 - Domain Adaptation of Deformable Part-based Models [[TPAMI2014]](https://ieeexplore.ieee.org/document/6824789)
 - Learning Scene-Speciﬁc Pedestrian Detectors without Real Data [[CVPR2015]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hattori_Learning_Scene-Specific_Pedestrian_2015_CVPR_paper.pdf)
 - Weakly Supervised Object Localization with Progressive Domain Adaptation [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf)
+## Traditional and General
+- Subspace Alignment Based Domain Adaptation for RCNN Detector [[BMVC2015]](https://arxiv.org/abs/1507.05578v1)
 ## Old School
 - DEEP DOMAIN ADAPTIVE OBJECT DETECTION: A SURVEY [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
 - iFAN: Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://arxiv.org/pdf/2003.04132.pdf)
