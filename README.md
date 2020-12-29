@@ -2,6 +2,7 @@
 A paper list for domain adaptive object detection.
 ## Arxiv
 - WASSERSTEIN DISTANCE BASED DOMAIN ADAPTATION FOR OBJECT DETECTION [[arxiv2019]](https://arxiv.org/abs/1909.08675?context=cs.CV)
+- Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[arxiv2019]](https://arxiv.org/abs/1911.07158?context=cs.CV)
 
 ## Old School
 - Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
