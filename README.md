@@ -2,25 +2,31 @@
 A paper list for domain adaptive object detection.
 
 ## Reference
+### Part 1
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 - Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Saito_Strong-Weak_Distribution_Alignment_for_Adaptive_Object_Detection_CVPR_2019_paper.pdf)
 - Multi-Level Domain Adaptive Learning for Cross-Domain Detection [[ICCVW2019]](https://arxiv.org/abs/1907.11484)
 - Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf)
 - Adaptive Object Detection with Dual Multi-Label Prediction [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730052.pdf)
+### Part 2
 - Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
 - Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
 - Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Multi-Adversarial_Faster-RCNN_for_Unrestricted_Object_Detection_ICCV_2019_paper.pdf)
 - iFAN：Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://arxiv.org/abs/2003.04132)
 - Cross-domain Detection via Graph-induced Prototype Alignment [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf)
+### Part 3
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
 - Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
 - Progressive Domain Adaptation for Object Detection [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Hsu_Progressive_Domain_Adaptation_for_Object_Detection_WACV_2020_paper.pdf)
 - Every Pixel Matters：Center-aware Feature Alignment for Domain Adaptive Object Detector [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540698.pdf)
+### Part 4
 - SCL：Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[arxiv2019]](https://arxiv.org/abs/1911.02559)
 - Harmonizing Transferability and Discriminability for Adapting Object Detectors [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.pdf)
 - Exploring Categorical Regularization for Domain Adaptive Object Detection [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf)
+### Part 5
 - A Robust Learning Approach to Domain Adaptive Object Detection [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khodabandeh_A_Robust_Learning_Approach_to_Domain_Adaptive_Object_Detection_ICCV_2019_paper.pdf)
 - Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630086.pdf)
+### Part 6
 - Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690307.pdf)
 - Adapting Object Detectors with Conditional Domain Normalization [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560392.pdf)
 - Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation [[ACCV2020]](https://openaccess.thecvf.com/content/ACCV2020/papers/Yang_Unsupervised_Domain_Adaptive_Object_Detection_using_Forward-Backward_Cyclic_Adaptation_ACCV_2020_paper.pdf)
