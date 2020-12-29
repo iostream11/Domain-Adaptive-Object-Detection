@@ -1,11 +1,5 @@
 # Domain-Adaptive-Object-Detection
 A paper list for domain adaptive object detection.
-## Arxiv
-- WASSERSTEIN DISTANCE BASED DOMAIN ADAPTATION FOR OBJECT DETECTION [[arxiv2019]](https://arxiv.org/abs/1909.08675?context=cs.CV)
-- Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[arxiv2019]](https://arxiv.org/abs/1911.07158?context=cs.CV)
-- Curriculum Self-Paced Learning for Cross-Domain Object Detection [[arxiv2019]](https://arxiv.org/abs/1911.06849?context=cs.CV)
-- Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2003.08777)
-- Channel-wise Alignment for Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2009.02862?context=cs)
 
 ## Old School
 - Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
@@ -16,6 +10,15 @@ A paper list for domain adaptive object detection.
 - Domain Adaptation of Deformable Part-based Models [[TPAMI2014]](https://ieeexplore.ieee.org/document/6824789)
 - Learning Scene-Speciﬁc Pedestrian Detectors without Real Data [[CVPR2015]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hattori_Learning_Scene-Specific_Pedestrian_2015_CVPR_paper.pdf)
 - Weakly Supervised Object Localization with Progressive Domain Adaptation [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf)
+
+## Arxiv
+- WASSERSTEIN DISTANCE BASED DOMAIN ADAPTATION FOR OBJECT DETECTION [[arxiv2019]](https://arxiv.org/abs/1909.08675?context=cs.CV)
+- Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[arxiv2019]](https://arxiv.org/abs/1911.07158?context=cs.CV)
+- Curriculum Self-Paced Learning for Cross-Domain Object Detection [[arxiv2019]](https://arxiv.org/abs/1911.06849?context=cs.CV)
+- Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2003.08777)
+- Channel-wise Alignment for Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2009.02862?context=cs)
+
+
 ## Traditional and General
 - Subspace Alignment Based Domain Adaptation for RCNN Detector [[BMVC2015]](https://arxiv.org/abs/1507.05578v1)
 ## Old School
