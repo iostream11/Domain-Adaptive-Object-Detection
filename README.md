@@ -15,25 +15,21 @@ A paper list for domain adaptive object detection.
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
 - Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
 - Progressive Domain Adaptation for Object Detection [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Hsu_Progressive_Domain_Adaptation_for_Object_Detection_WACV_2020_paper.pdf)
-
-
-
-- Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation [[arxiv2020]](https://arxiv.org/abs/2002.00575v1)
-- Domain Adaptation for Object Detection via Style Consistency [[BMVC2019]](https://arxiv.org/pdf/1911.10033.pdf)
-- Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night [[IJCNN2019]](https://ieeexplore.ieee.org/document/8852008)
-
+- Every Pixel Matters：Center-aware Feature Alignment for Domain Adaptive Object Detector [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540698.pdf)
+- SCL：Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[arxiv2019]](https://arxiv.org/abs/1911.02559)
+- Harmonizing Transferability and Discriminability for Adapting Object Detectors [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.pdf)
+- Exploring Categorical Regularization for Domain Adaptive Object Detection [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf)
 - A Robust Learning Approach to Domain Adaptive Object Detection [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khodabandeh_A_Robust_Learning_Approach_to_Domain_Adaptive_Object_Detection_ICCV_2019_paper.pdf)
-
-
-- Towards Universal Object Detection by Domain Attention [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)
-- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](http://202.38.196.91/cache/3/03/openaccess.thecvf.com/59418b176cfe9fdb76397b1a3736ebbc/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
-- SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[arxiv2019]](https://arxiv.org/abs/1911.02559v1)
-- Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
+- Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630086.pdf)
+- Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690307.pdf)
+- Adapting Object Detectors with Conditional Domain Normalization [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560392.pdf)
+- Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation [[ACCV2020]](https://openaccess.thecvf.com/content/ACCV2020/papers/Yang_Unsupervised_Domain_Adaptive_Object_Detection_using_Forward-Backward_Cyclic_Adaptation_ACCV_2020_paper.pdf)
 
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
 - Domain Adaptation for Object Detection via Style Consistency [[BMVC2019]](https://arxiv.org/abs/1911.10033v1)
 - Pixel and feature level based domain adaptation for object detection in autonomous driving [[Neurocomputing2019]](https://arxiv.org/abs/1810.00345v1)
+- Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night [[IJCNN2019]](https://ieeexplore.ieee.org/document/8852008)
 - Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf)
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Self-Training_and_Adversarial_Background_Regularization_for_Unsupervised_Domain_Adaptive_One-Stage_ICCV_2019_paper.pdf)
 - Few-shot Adaptive Faster R-CNN [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.pdf)
