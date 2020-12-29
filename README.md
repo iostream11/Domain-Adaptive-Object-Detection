@@ -1,6 +1,9 @@
 # Domain-Adaptive-Object-Detection
 A paper list for domain adaptive object detection.
 
+## Reference
+- SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
+
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
 - Domain Adaptation for Object Detection via Style Consistency [[BMVC2019]](https://arxiv.org/abs/1911.10033v1)
