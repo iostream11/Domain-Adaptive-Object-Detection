@@ -13,7 +13,7 @@ A paper list for domain adaptive object detection.
 - iFAN：Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://arxiv.org/abs/2003.04132)
 - Cross-domain Detection via Graph-induced Prototype Alignment [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
-- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](http://202.38.196.91/cache/3/03/openaccess.thecvf.com/59418b176cfe9fdb76397b1a3736ebbc/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
+- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
 - Progressive Domain Adaptation for Object Detection [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Hsu_Progressive_Domain_Adaptation_for_Object_Detection_WACV_2020_paper.pdf)
 
 
