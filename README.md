@@ -1,6 +1,10 @@
 # Domain-Adaptive-Object-Detection
 A paper list for domain adaptive object detection.
 
+## Less Relevant
+- SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
+- Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf)
+
 ## Old School
 - Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
 - Unsupervised Domain Adaptation of Virtual and Real Worlds for Pedestrian Detection [[ICPR2012]](https://ieeexplore.ieee.org/document/6460917)
