@@ -2,7 +2,13 @@
 A paper list for domain adaptive object detection.
 
 ## Reference
-- SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
+- Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](http://202.38.196.91/cache/7/03/openaccess.thecvf.com/fd5b814231aa5e43713ab0100da610f1/Saito_Strong-Weak_Distribution_Alignment_for_Adaptive_Object_Detection_CVPR_2019_paper.pdf)
+- Multi-Level Domain Adaptive Learning for Cross-Domain Detection [[ICCVW2019]](https://arxiv.org/abs/1907.11484)
+- Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf)
+- Adaptive Object Detection with Dual Multi-Label Prediction [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730052.pdf)
+- Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
+- Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
 
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
