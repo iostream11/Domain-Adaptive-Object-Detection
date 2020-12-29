@@ -30,6 +30,10 @@ A paper list for domain adaptive object detection.
 - Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2003.08777)
 - Channel-wise Alignment for Adaptive Object Detection [[arxiv2020]](https://arxiv.org/abs/2009.02862?context=cs)
 
+## Tools
+- Visualizing Data using t-SNE [[JMLR2008]](https://jmlr.csail.mit.edu/papers/v9/vandermaaten08a.html)
+- Grad-CAM：Visual Explanations from Deep Networks via Gradient-based Localization [[ICCV2017]](https://ieeexplore.ieee.org/document/8237336)
+
 
 ## Traditional and General
 - Subspace Alignment Based Domain Adaptation for RCNN Detector [[BMVC2015]](https://arxiv.org/abs/1507.05578v1)
