@@ -9,6 +9,9 @@ A paper list for domain adaptive object detection.
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Self-Training_and_Adversarial_Background_Regularization_for_Unsupervised_Domain_Adaptive_One-Stage_ICCV_2019_paper.pdf)
 - Few-shot Adaptive Faster R-CNN [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.pdf)
 - Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment [[ACM2020]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413553)
+- Multi-Scale Adversarial Cross-Domain Detection with Robust Discriminative Learning [[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/papers/Pan_Multi-Scale_Adversarial_Cross-Domain_Detection_with_Robust_Discriminative_Learning_WACV_2020_paper.pdf)
+- Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590749.pdf)
+- DUNIT：Detection-based Unsupervised Image-to-Image Translation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhattacharjee_DUNIT_Detection-Based_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf)
 
 ## Old School
 - Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
