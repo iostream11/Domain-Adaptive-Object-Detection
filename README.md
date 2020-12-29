@@ -4,6 +4,7 @@ A paper list for domain adaptive object detection.
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
 - Domain Adaptation for Object Detection via Style Consistency [[BMVC2019]](https://arxiv.org/abs/1911.10033v1)
+- Pixel and feature level based domain adaptation for object detection in autonomous driving [[Neurocomputing2019]](https://arxiv.org/abs/1810.00345v1)
 - Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf)
 
 ## Old School
