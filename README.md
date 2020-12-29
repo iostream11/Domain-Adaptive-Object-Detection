@@ -8,6 +8,7 @@ A paper list for domain adaptive object detection.
 - Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf)
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Self-Training_and_Adversarial_Background_Regularization_for_Unsupervised_Domain_Adaptive_One-Stage_ICCV_2019_paper.pdf)
 - Few-shot Adaptive Faster R-CNN [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.pdf)
+- Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment [[ACM2020]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413553)
 
 ## Old School
 - Automatic Adaptation of a Generic Pedestrian Detector to a Specific Traffic Scene [[CVPR2011]](https://ieeexplore.ieee.org/document/5995698/similar#similar)
