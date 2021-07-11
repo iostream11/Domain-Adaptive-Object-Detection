@@ -37,6 +37,7 @@ A paper list for domain adaptive object detection.
 
 ## Paper Related
 - Faster R-CNN：Towards Real-Time Object Detection with Region Proposal Networks [[NIPS2015]](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+- Hierarchical Context Embedding for Region-based Object Detection [[ECCV2020]](https://arxiv.org/pdf/2008.01338.pdf)
 
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
