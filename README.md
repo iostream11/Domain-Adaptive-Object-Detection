@@ -30,6 +30,10 @@ A paper list for domain adaptive object detection.
 - MeGA-CDA：Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper.pdf)
 - Unbiased Mean Teacher for Cross-domain Object Detection [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Unbiased_Mean_Teacher_for_Cross-Domain_Object_Detection_CVPR_2021_paper.pdf)
 
+## Adaptive Semantic Segmentation
+- Domain Adaptive Semantic Segmentation Using Weak Labels [[ECCV2020]](https://arxiv.org/pdf/2007.15176.pdf)
+- SSF-DAN：Separated Semantic Feature based Domain Adaptation Network for Semantic Segmentation [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.pdf)
+
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
 - Domain Adaptation for Object Detection via Style Consistency [[BMVC2019]](https://arxiv.org/abs/1911.10033v1)
