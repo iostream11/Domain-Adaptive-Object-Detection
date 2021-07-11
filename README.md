@@ -69,7 +69,3 @@ A paper list for domain adaptive object detection.
 ## Tools
 - Visualizing Data using t-SNE [[JMLR2008]](https://jmlr.csail.mit.edu/papers/v9/vandermaaten08a.html)
 - Grad-CAM：Visual Explanations from Deep Networks via Gradient-based Localization [[ICCV2017]](https://ieeexplore.ieee.org/document/8237336)
-- DEEP DOMAIN ADAPTIVE OBJECT DETECTION: A SURVEY [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
-
-## Universal Object Detection
-- Towards Universal Object Detection by Domain Attention [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)
