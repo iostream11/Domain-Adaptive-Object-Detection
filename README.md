@@ -10,7 +10,7 @@ A paper list for domain adaptive object detection.
 - Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
 - Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
 - Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[ICCV2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Multi-Adversarial_Faster-RCNN_for_Unrestricted_Object_Detection_ICCV_2019_paper.pdf)
-- iFAN：Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://arxiv.org/abs/2003.04132)
+- iFAN：Image-Instance Full Alignment Networks for Adaptive Object Detection [[AAAI2020]](https://ojs.aaai.org/index.php/AAAI/article/view/7015)
 - Cross-domain Detection via Graph-induced Prototype Alignment [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf)
 - Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
