@@ -24,6 +24,7 @@ A paper list for domain adaptive object detection.
 - Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690307.pdf)
 - Adapting Object Detectors with Conditional Domain Normalization [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560392.pdf)
 - Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation [[ACCV2020]](https://openaccess.thecvf.com/content/ACCV2020/papers/Yang_Unsupervised_Domain_Adaptive_Object_Detection_using_Forward-Backward_Cyclic_Adaptation_ACCV_2020_paper.pdf)
+- Spatial Attention Pyramid Network for Unsupervised Domain Adaptation [[ECCV2020]](https://arxiv.org/pdf/2003.12979.pdf)
 
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
